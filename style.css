@@ -1,0 +1,23 @@
+.create-new-account{
+    color:white;
+    font-size: 1.25em;
+}
+
+.btn btn-primary{
+    color:white;
+    font:white;
+}
+
+.navbar-brand{
+    font-style: italic;
+    font:white;
+}
+
+.login-form{
+    font-style: bold;
+    font-size: 1.5em;
+}
+
+.btn btn-outline-success{
+    font:white;
+}
